@@ -1,5 +1,5 @@
 streamlit
-langgraph
 langchain
+langgraph
 langchain-google-genai
 google-generativeai
