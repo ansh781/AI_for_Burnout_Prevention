@@ -18,3 +18,5 @@ This AI assistant helps university students track and manage burnout risk throug
 
 4. **Built with LangGraph + Gemini API** 🤖  
    The app uses LangChain’s LangGraph to structure this decision-making flow and only makes **one smart API call** to Gemini.
+## 🌟 Try it Live
+👉 [Launch App](https://ai-for-burnout-prevention-project.streamlit.app/)
