@@ -1,4 +1,4 @@
-# Self-Care Scheduler AI 🤖🧘
+# Self-Care Burnout Prevention AI 🤖🧘
 
 A burnout prevention assistant built with LangGraph, Gemini API, and Streamlit.
 
